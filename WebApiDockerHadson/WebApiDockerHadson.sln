@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiDockerHadson", "WebApiDockerHadson\WebApiDockerHadson.csproj", "{0688F774-D4A8-4EC3-A030-2D57A64BDA3F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0688F774-D4A8-4EC3-A030-2D57A64BDA3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0688F774-D4A8-4EC3-A030-2D57A64BDA3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0688F774-D4A8-4EC3-A030-2D57A64BDA3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0688F774-D4A8-4EC3-A030-2D57A64BDA3F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EF61E2A2-C592-4021-A69A-B2FCC6C07CE7}
+	EndGlobalSection
+EndGlobal
